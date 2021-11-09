@@ -158,7 +158,7 @@
                                 <button type="reset" class="btn btn-danger btn-sm">
                                     <i class="fa fa-ban" aria-hidden="true"></i> 清除
                                 </button>
-                                <button id="btn_ok" type="button" class="btn btn-primary btn-sm">
+                                <button id="btn_ok" type="submit" class="btn btn-primary btn-sm">
                                     <i class="zmdi zmdi-check" aria-hidden="true"></i> 確認送出
                                 </button>
                             </div>
