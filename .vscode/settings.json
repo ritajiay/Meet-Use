@@ -1,0 +1,16 @@
+{
+    // 存檔自動儲存
+    "files.autoSave": "onFocusChange",
+    // 存檔自動調整格式設定
+    "editor.formatOnSave": true,
+    // 貼上格式碼自動縮排
+    "editor.formatOnPaste": true,
+    // 縮排時的空白數
+    "editor.tabSize": 4,
+    // 將vs code預設關閉
+    "editor.detectIndentation": false,
+    // 預設字型
+    "files.defaultLanguage": "${activeEditorLanguage}",
+    // 資料夾顯示階層寬度
+    "workbench.tree.indent": 8
+}
