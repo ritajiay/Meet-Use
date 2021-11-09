@@ -83,11 +83,11 @@
 
 皆為Colorlib Free Femplate↓
 
-Dashboard參考前端模板:
-    作者:Colorlib
-    Copyright © 2018 Colorlib. All rights reserved. Template by Colorlib.
+Dashboard參考前端模板:  
+  作者:Colorlib  
+    Copyright © 2018 Colorlib. All rights reserved. Template by Colorlib.  
     github連結:https://github.com/puikinsh/CoolAdmin
 
-Login參考前端模板:
-    作者:Colorlib
+Login參考前端模板:  
+    作者:Colorlib  
     連結:https://colorlib.com/wp/template/login-form-v1/
