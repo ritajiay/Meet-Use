@@ -2,12 +2,12 @@
 
 工作管理平台
 
-版本: XAMPP (v3.2.4)、Laravel (7.30.4)、Apache (7.3.9)。
+版本: XAMPP (v3.2.4)、Laravel (7.30.4)、Apache (7.3.9)。  
 前端應用: HTML5、CSS3、Ajax、jQuery (3.2.1)。(有使用簡單應用，但不是非常熟悉)  
-套件: Datatable。
+套件: Datatable。  
 
-前端為開源模板，再自行做修改，
-用到Laravel的View以及model的部分。
+前端為開源模板，再自行做修改，  
+用到Laravel的View以及model的部分。  
 
 用於紀錄每日工作日誌，
 並使用權限區分可視畫面，
