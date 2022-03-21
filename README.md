@@ -5,16 +5,15 @@
 版本: XAMPP (v3.2.4)、Laravel (7.30.4)、Apache (7.3.9)。  
 前端應用: HTML5、CSS3、Ajax、jQuery (3.2.1)。(有使用簡單應用，但不是非常熟悉)  
 資料庫: MySQL。  
-套件: Datatable。  
+套件: Datatable、Google Chart。  
 
   
 前端為開源模板，再自行做修改，  
 用到Laravel的View以及model的部分。  
   
   
-用於紀錄每日工作日誌，
-並使用權限區分可視畫面，
-有些畫面一般使用者不可見。
+用於紀錄每日工作日誌、現有專案，
+並依權限區分可視畫面。
   
   
 主要頁面階層，以及包含的功能有 (下方提供畫面截圖):
@@ -49,6 +48,10 @@
     10.專案狀態名稱清單 (新增/修改/刪除)
     
     11.專案狀態
+    
+    12.人員出席 (新增/修改/刪除)
+         L人員出席清單 & 請假
+         L請假類別 & 管理者
       
   登入頁面:
 ![all text](https://github.com/ritajiay/Meet-Use/blob/main/screen%20shot/login.jpg)
