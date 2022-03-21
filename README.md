@@ -68,7 +68,7 @@
 ![all text](https://github.com/ritajiay/Meet-Use/blob/main/screen%20shot/admin%20homepage%203.jpg)
 
  一般使用者可視頁面:
-![all text](https://github.com/ritajiay/Meet-Use/blob/main/screen%20shot/%E4%B8%80%E8%88%AC%E4%BD%BF%E7%94%A8%E8%80%85homepage.jpg)
+![all text](https://github.com/ritajiay/Meet-Use/blob/b14780a63422c5c1d8fec738c2816cf2aeea35e6/screen%20shot/%E4%B8%80%E8%88%AC%E4%BD%BF%E7%94%A8%E8%80%85homepage.jpg)
 
   工作日誌總覽(本日):
 ![all text](https://github.com/ritajiay/Meet-Use/blob/main/screen%20shot/%E6%9C%AC%E6%97%A5%E5%B7%A5%E4%BD%9C%E6%97%A5%E8%AA%8C1.jpg)
