@@ -64,6 +64,7 @@
 
   總覽(管理者可視頁面):
 ![all text](https://github.com/ritajiay/Meet-Use/blob/main/screen%20shot/admin%20homepage.jpg)
+![all text](https://github.com/ritajiay/Meet-Use/blob/main/screen%20shot/admin%20homepage%202.jpg)
 
  一般使用者可視頁面:
 ![all text](https://github.com/ritajiay/Meet-Use/blob/main/screen%20shot/%E4%B8%80%E8%88%AC%E4%BD%BF%E7%94%A8%E8%80%85homepage.jpg)
