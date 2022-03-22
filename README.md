@@ -3,7 +3,7 @@
 工作管理平台
 
 版本: XAMPP (v3.2.4)、Laravel (7.30.4)、Apache (7.3.9)。  
-前端應用: HTML5、CSS3、Ajax、jQuery (3.2.1)。(有使用簡單應用，但不是非常熟悉)  
+前端應用: HTML5、CSS3、Ajax、jQuery (3.2.1)。 
 資料庫: MySQL。  
 套件: Datatable、Google Chart。  
 
