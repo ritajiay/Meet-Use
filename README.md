@@ -56,7 +56,7 @@
          L請假類別 & 管理者
       
   登入頁面:
-![all text](https://github.com/ritajiay/Meet-Use/blob/main/screen%20shot/login.jpg)
+![all text](https://github.com/ritajiay/Meet-Use/blob/main/screen%20shot/1_%E7%99%BB%E5%85%A5.jpg?raw=true)
 
   帳號建立:
 ![all text](https://github.com/ritajiay/Meet-Use/blob/main/screen%20shot/user%20create.jpg)
